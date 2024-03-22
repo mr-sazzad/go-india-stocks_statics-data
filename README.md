@@ -1,0 +1,1 @@
+# go-india-stocks_statics-data
